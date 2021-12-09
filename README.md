@@ -40,7 +40,9 @@ run get_cam.py to get grad_cam picture!
 ```python
 python cam.py --image-path path "for inputimage" --method "cam method"
 ```
-
+### example
+https://github.com/ElegantAnkster/grad-cam/blob/main/examples/both.png?raw=true
+https://github.com/ElegantAnkster/grad-cam/blob/main/result/both.png_gradcam_cam.jpg?raw=true
 ### Reference
 
 * https://zhuanlan.zhihu.com/p/371296750
