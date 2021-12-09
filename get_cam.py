@@ -28,7 +28,7 @@ def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--use-cuda', action='store_true', default=False,
                         help='Use NVIDIA GPU acceleration')
-    parser.add_argument('--imagedir-path', type=str, default='./examples',
+    parser.add_argument('--image-path', type=str, default='./examples',
                         help='Input imagedir path')
     parser.add_argument('--aug_smooth', action='store_true',
                         help='Apply test time augmentation to smooth the CAM')

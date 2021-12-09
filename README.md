@@ -9,7 +9,37 @@ A simple script to generate grad-cam.
 
 ### usage
 
+build an environment
 
+```python
+conda create -n your_env_name python==3.x
+```
+
+activate environment
+
+* if your platform is PC:
+
+```python
+activate your_env_name
+```
+
+* if your platform is Ubuntu:
+
+```python
+source activate your_env_nam
+```
+
+install dependency
+
+```python
+pip install pytorch-grad-cam
+```
+
+run get_cam.py to get grad_cam picture!
+
+```python
+python cam.py --image-path path "for inputimage" --method "cam method"
+```
 
 ### Reference
 
