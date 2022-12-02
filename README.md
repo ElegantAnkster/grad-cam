@@ -43,7 +43,7 @@ python cam.py --image-path path "for inputimage" --method "cam method"
 for example
 
 ```shell
-python cam.py --image-path './examples/both.png' --method 'gradcam'
+python get_cam.py --image-path './examples/both.png' --method 'gradcam'
 ```
 
 
