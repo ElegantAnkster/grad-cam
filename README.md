@@ -32,7 +32,7 @@ source activate your_env_nam
 install dependency
 
 ```python
-pip install pytorch-grad-cam
+pip install grad-cam
 ```
 
 run get_cam.py to get grad_cam picture!
