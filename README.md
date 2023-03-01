@@ -8,13 +8,13 @@ A simple script to generate grad-cam.
 
 ### usage
 
-build an environment
+1.build an environment
 
 ```python
 conda create -n your_env_name python==3.9
 ```
 
-activate environment
+2.activate environment
 
 * if your platform is PC:
 
@@ -28,13 +28,13 @@ activate your_env_name
 source activate your_env_nam
 ```
 
-install dependency
+3.install dependency
 
 ```python
 pip install -r requirements.txt
 ```
 
-How to get grad_cam picture ？！
+4.How to get grad_cam picture ？！
 
 ```python
 python cam.py --image-path path "for inputimage" --method "cam method"
