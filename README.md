@@ -50,7 +50,7 @@ python get_cam.py --image-path './examples/both.png' --method 'gradcam'
 ### example image
 
 ![image](https://github.com/ElegantAnkster/grad-cam/blob/main/examples/both.png?raw=true)
-![image](https://github.com/ElegantAnkster/grad-cam/blob/main/result/both.png_gradcam_cam.jpg?raw=true)
+![image](https://github.com/ElegantNorlin/grad-cam/blob/main/results/both_gradcam.jpg?raw=true)
 
 ### Reference
 * https://github.com/jacobgil/pytorch-grad-cam
