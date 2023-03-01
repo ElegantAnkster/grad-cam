@@ -1,5 +1,5 @@
 # grad-cam
-##Note:
+## Note:
 **1.The project works perfectly on Apple's Silicon M1.**
 **2.Since the project did not process the image input, the input image must be 224x224 in size, otherwise the heat map effect is not ideal.**
 ### Project description
