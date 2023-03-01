@@ -5,7 +5,6 @@ A simple script to generate grad-cam.
 
 * examples:save input images.
 * result:save output images.
-* get_cam.py:Batch generation of Grad-CAM  
 
 ### usage
 
