@@ -4,7 +4,7 @@ A simple script to generate grad-cam.
 ### Project description
 
 * examples:save input images.
-* result:save output images.
+* results:save output images.
 
 ### usage
 
