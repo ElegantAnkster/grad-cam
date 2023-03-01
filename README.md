@@ -1,5 +1,5 @@
 # grad-cam
-A simple script to generate grad-cam.
+** The project works perfectly on Apple's Silicon M1. **
 
 ### Project description
 
