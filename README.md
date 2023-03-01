@@ -1,5 +1,5 @@
 # grad-cam
-** The project works perfectly on Apple's Silicon M1. **
+* The project works perfectly on Apple's Silicon M1. *
 
 ### Project description
 
